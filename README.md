@@ -9,7 +9,5 @@ cd ReactJS-NodeJS-AWSS3
 cd client 
 
 1. `npm install`
-
 2. tag img copy take link img from aws or comment
-
 3. `npm start`
