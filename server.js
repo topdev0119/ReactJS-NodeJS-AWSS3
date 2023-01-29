@@ -11,6 +11,7 @@ const app = express();
  * bodyParser.json() returns a function that is passed as a param to app.use() as middleware
  * With the help of this method, we can now send JSON to our express application.
  */
+
 app.use( bodyParser.urlencoded( { extended: false } ) );
 app.use( bodyParser.json() );
 
